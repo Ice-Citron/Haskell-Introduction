@@ -13,6 +13,7 @@ cabal-version:      3.0
 -- The name of the package.
 name:               haskell-trail-project
 
+
 -- The package version.
 -- See the Haskell package versioning policy (PVP) for standards
 -- guiding when and how versions should be incremented.
